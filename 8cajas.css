@@ -1,0 +1,9 @@
+div:not(.gris){
+	width: 150px;
+	height: 40px;
+	background-color: grey;
+	border: 2px solid grey;
+}
+.inline{
+	display: inline-block;
+}
